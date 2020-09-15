@@ -1,2 +1,2 @@
 # SkillFactory-Rep
-SF repository
+Repository for SkillFactory education projects
